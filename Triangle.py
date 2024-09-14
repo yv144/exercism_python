@@ -1,4 +1,4 @@
-# Determine if a triangle is equilateral, isosceles, or scalene.
+# Determine if a triangle is equilateral, isosceles, or scalene. 
 
 def zero_safe(sides:list)->bool:
     a,b,c = sides

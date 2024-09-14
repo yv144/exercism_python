@@ -14,6 +14,3 @@ def total():
     for value in range(1,65):
         cumulative += square(value)
     return cumulative
-
-print(total())
-# print(square(64))
